@@ -1,2 +1,3 @@
 # mysite
 hogehogehogefuga
+fugafuga
